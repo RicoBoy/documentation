@@ -18,7 +18,7 @@ die Daten nicht direkt von diesen externen Anbietern (z.B. Dropbox oder Google D
 aus teilen, da diese nicht die nötigen Passwörter für die Entschlüsselung besitzen.
 Die Passwörter liegen einzig und allein auf Ihrem Nextcloud-Server.
 
-Falls Ihr Nextcloud-Server die Daten nicht bei externen Anbietern speichert, ist es
+Falls Ihr Nextcloud-Server die Daten bei externen Anbietern speichert, ist es
 besser, eine andere Art von Verschlüsselung (z.B. eine Festplattenverschlüsselung)
 zu wählen. Da die Passwörter für die Entschlüsselung auf Ihrem Nextcloud-Server
 gespeichert sind, könnte Ihr Administrator theoretisch all Ihre Daten einsehen.
